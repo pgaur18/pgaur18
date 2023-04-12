@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pgaur18&label=Profile%20views&color=0e75b6&style=flat" alt="pgaur18" /> </p>
 
-- 🔭 I’m currently working on **Airplane Price Prediction**
+- 🔭 I’m currently working on **SMS/Email Spam or Ham Classifier**
 
 - 🌱 I’m currently learning **Power Bi and Statistics**
 
