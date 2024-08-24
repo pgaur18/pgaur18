@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Generative AI and Data Engineering**
 
-- 💬 Ask me about **Python, Data Science, and Machine Learning**
+- 💬 Ask me about **Python, Data Analytics, and Machine Learning**
 
 - 📫 How to reach me **pradyumangaur18@gmail.com**
 
