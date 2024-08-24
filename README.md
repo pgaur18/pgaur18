@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*dBPwuC3Dh2WWFFYTwogTMA.gif)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*dBPwuC3Dh2WWFFYTwogTMA.gif)]
 <h1 align="center">Hi 👋, I'm Pradyuman Gaur</h1>
 <h3 align="center"> Data Analytics | Data Science | Machine Learning </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
