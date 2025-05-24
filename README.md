@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Python and Data Analytics**
 
-- 📫 How to reach me **pradyumangaur18@gmail.com**
-
 - ⚡ Fun fact **I love Science and if its Data Related, even better!**
 
 <h3 align="left">Connect with me:</h3>
