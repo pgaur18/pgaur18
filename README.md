@@ -7,6 +7,9 @@
 
 - 🌱 I’m currently learning **Generative AI and Data Engineering**
 
+- 📜 Check out my [Certifications & Trainings](https://github.com/pgaur18/Certifications-and-Trainings) to see all my completed courses and certificates.
+
+
 - 💬 Ask me about **Python and Data Analytics**
 
 - ⚡ Fun fact **I love Science and if its Data Related, even better!**
