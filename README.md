@@ -17,9 +17,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 Currently learning **Generative AI** and **Data Engineering**
+- 🌱 Currently learning **Data Engineering**
 - 💬 Ask me about **Python, Data Analytics, and Machine Learning**
-- ⚡ Fun fact: I love Science — and if it's Data-related, even better!
+- ⚡ Fun fact: I love Science and if it's Data-related, even better!
 - 📜 Check out my [Certifications & Trainings](https://github.com/pgaur18/Certifications-and-Trainings)
 
 ---
