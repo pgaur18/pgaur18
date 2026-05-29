@@ -3,7 +3,9 @@
 <h3 align="center"> Data Analytics | Data Science | Machine Learning </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pgaur18&label=Profile%20views&color=0e75b6&style=flat" alt="pgaur18" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pgaur18&label=Profile%20views&color=0e75b6&style=flat" alt="pgaur18" />
+</p>
 
 - 🌱 I'm currently learning **Agentic AI and Data Engineering.**
 
