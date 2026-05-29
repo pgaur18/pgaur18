@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Pradyuman Gaur
 
-### Building AI Systems • Data Science • Agentic AI
+### Building AI Powered Data Analytics Solutions.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=AI+Engineer+in+Progress;Building+RAG+Pipelines;Exploring+Agentic+AI;Turning+Ideas+Into+AI+Applications" />
 
