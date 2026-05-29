@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pgaur18&label=Profile%20views&color=0e75b6&style=flat" alt="pgaur18" /> </p>
 
-- 🌱 I'm currently learning **Generative AI and Data Engineering.**
+- 🌱 I'm currently learning **Agentic AI and Data Engineering.**
 
 - 💬 Ask me about **Python and Data Analytics.**
 
