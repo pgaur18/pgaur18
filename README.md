@@ -6,7 +6,7 @@
 
 ### Building AI Systems • Data Science • Agentic AI
 
-<img src="https://readme-typing-svg.herokuapp.comfont=Fira+Code&size=22&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=Data+Analytics;Data+Science;Generative+AI;Agentic+AI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=AI+Engineer+in+Progress;Building+RAG+Pipelines;Exploring+Agentic+AI;Turning+Ideas+Into+AI+Applications" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pgaur18&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -21,7 +21,7 @@
 ### 🚀 About Me
 
 * 🌱 Currently learning **Agentic AI** & **Data Engineering**
-* 💬 Ask me about **Analytics, Machine Learning & Reporting**
+* 💬 Ask me about **Analytics, Machine Learning, Dashbaords & Reporting**
 * 🧠 Exploring **LangChain, LangGraph & RAG Systems**
 * ⚡ Fun fact: *If it's related to AI or Data, I'm already interested.*
 * 📜 View all my certifications here:
